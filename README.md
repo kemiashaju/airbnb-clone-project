@@ -101,3 +101,27 @@ Each role plays a vital part in ensuring the AirBnB Clone Project’s success:
 
 > Together, these roles ensure that the project is delivered on time, within scope, and provides an excellent user experience.
 
+##  UI Component Patterns
+
+The **UI Component Patterns** section outlines the key reusable components that will form the user interface of the AirBnB Clone project. These components are designed with consistency, reusability, and scalability in mind — ensuring that the design system remains clean and efficient as the project grows.
+
+### Planned Components
+
+| **Component** | **Description** | **Purpose / Functionality** |
+|----------------|-----------------|-----------------------------|
+| **Navbar** | A responsive top navigation bar containing the logo, search bar, and navigation links. | Helps users navigate easily between pages such as Home, Listings, and Profile. It remains consistent across all pages to maintain brand identity and improve usability. |
+| **Property Card** | A visually appealing card layout displaying property details such as image, title, price per night, location, and rating. | Serves as the primary element for listing previews, allowing users to browse multiple properties efficiently. |
+| **Footer** | A site-wide footer containing contact details, quick links, and social media icons. | Provides closure to each page and ensures easy access to legal information, policies, and external links. |
+| **Search Filter Panel** | A collapsible panel that allows users to filter listings by price, location, and amenities. | Enhances user experience by making it easier to find relevant properties. |
+| **Booking Form Modal** | A popup form for confirming reservations. Includes check-in/out dates, number of guests, and total cost summary. | Simplifies the booking process and ensures data consistency for checkout. |
+
+### Design Considerations
+- Components will follow a **consistent design language** (colors, typography, and spacing).  
+- Each component will be **modular and reusable** across multiple pages.  
+- The design will emphasize **responsiveness**, ensuring usability across all device sizes.  
+- All components will be implemented following **accessibility best practices** (ARIA labels, keyboard navigation, and contrast compliance).
+
+### Next Steps
+- Create wireframes in **Figma** to visualize each component.  
+- Translate mockups into code using **HTML, CSS, and JavaScript (React or Vanilla)**.  
+- Integrate these components into the main layout to form the base user interface for the AirBnB Clone.
