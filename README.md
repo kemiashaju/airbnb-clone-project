@@ -29,6 +29,47 @@ A user-friendly interface is essential in a booking system because it:
 
 ---
 
-### ✏️ Next Steps
+###  Next Steps
 The next phase involves creating **wireframes** and **mockups** for these three pages using tools like Figma or Adobe XD, followed by gathering feedback and refining the design before implementation.
+
+###  Figma Environment Exploration
+
+#### Color Styles
+- **Primary Color:** #FF5A5F (Brand Red)
+- **Secondary Color:** #00A699 (Teal Green)
+- **Accent Color:** #FC642D (Orange)
+- **Background Color:** #FFFFFF (White)
+- **Text Color (Primary):** #333333 (Dark Gray)
+- **Text Color (Secondary):** #767676 (Light Gray)
+
+> _These colors maintain consistency across all pages and ensure brand identity is preserved._
+
+#### Typography
+- **Font Family:** Inter, sans-serif  
+- **Font Weights:**  
+  - Regular (400) – for body text  
+  - Medium (500) – for subheadings  
+  - Bold (700) – for headings  
+- **Font Sizes:**  
+  - Heading 1 (H1): 32px  
+  - Heading 2 (H2): 24px  
+  - Body Text: 16px  
+  - Small Text: 14px  
+
+> _The chosen typography ensures readability, hierarchy, and a modern aesthetic aligned with Airbnb’s clean design style._
+
+#### Importance of Identifying Design Properties
+Understanding and documenting design properties like **color styles** and **typography** is crucial because:
+- It ensures **consistency** across all screens and components.  
+- Helps developers and designers maintain **visual harmony** in the interface.  
+- Simplifies **collaboration** — everyone works from the same design guidelines.  
+- Allows for easier **scaling** of the project as new pages or components are added.  
+- Promotes a **professional and cohesive brand experience** for users.  
+
+> Identifying these properties early in the design process prevents inconsistencies and saves time during implementation.
+
+---
+
+###  Next Step
+Use the Figma design file to extract real color values, fonts, and spacing once your mockups are complete, and update this section with actual values.
 
