@@ -73,3 +73,31 @@ Understanding and documenting design properties like **color styles** and **typo
 ###  Next Step
 Use the Figma design file to extract real color values, fonts, and spacing once your mockups are complete, and update this section with actual values.
 
+##  Project Roles and Responsibilities
+
+A successful project depends on the collaboration of multiple team members, each with clear roles and defined responsibilities. Below is an overview of the key roles in the **AirBnB Clone Project** and their contributions to its success.
+
+| **Role** | **Responsibilities** | **Contribution to Project Success** |
+|-----------|----------------------|-------------------------------------|
+| **Project Manager (PM)** | Oversees planning, execution, and delivery of the project. Coordinates between teams, manages timelines, and ensures milestones are met. | Ensures that the project stays on schedule, within scope, and maintains high quality throughout development. |
+| **Frontend Developers** | Design and implement the user interface using HTML, CSS, and JavaScript frameworks. Ensure responsiveness and interactivity across devices. | Create the visual and interactive components that define user experience and usability. |
+| **Backend Developers** | Develop and maintain server-side logic, database management, and API integrations. Handle data flow, authentication, and business logic. | Power the core functionality that supports user actions, ensuring reliability and data security. |
+| **UI/UX Designers** | Develop wireframes, prototypes, and visual mockups using tools like Figma. Define design systems, color schemes, and typography. | Ensure a user-friendly and visually appealing interface that aligns with the project’s goals and enhances engagement. |
+| **QA/Testers** | Write and execute test cases, perform functional, usability, and regression testing. Identify and document bugs for developers to fix. | Maintain product quality and ensure a smooth, error-free user experience. |
+| **DevOps Engineers** | Manage CI/CD pipelines, cloud deployments, and server environments. Automate workflows for faster and more reliable updates. | Enable seamless deployment, continuous integration, and high system uptime. |
+| **Product Owner (PO)** | Defines product vision and priorities, manages the product backlog, and ensures alignment between business goals and development. | Guides the team toward building features that deliver maximum value to users and stakeholders. |
+| **Scrum Master** | Facilitates Agile ceremonies (stand-ups, sprints, retrospectives), removes obstacles, and ensures team efficiency. | Promotes collaboration, maintains momentum, and supports the team’s adherence to Agile best practices. |
+
+---
+
+###  How Roles Interact
+Each role plays a vital part in ensuring the AirBnB Clone Project’s success:
+- The **Product Owner** defines *what* to build.  
+- The **Project Manager** plans *how* and *when* to build it.  
+- The **Developers** and **Designers** create *the product*.  
+- The **QA/Testers** ensure *it works flawlessly*.  
+- The **DevOps Engineers** make *deployment smooth and scalable*.  
+- The **Scrum Master** ensures the *team works efficiently* using Agile principles.
+
+> Together, these roles ensure that the project is delivered on time, within scope, and provides an excellent user experience.
+
